@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class StringCalculate {
 
-    // 여러 가지 예외 상황을 처리해주면서 stack에 숫자를 넣어주는 함수
+    // 여러 가지 예외 상황을 처리해주면서 식을 계산하는 함수
     public static Double Calculate(String str)
     {
         double ret = 0;
